@@ -4,7 +4,7 @@ package com.example.mad_pracctical11_21012021003
 import android.os.Bundle
 import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
-import com.example.mad_pracctical11_21012021011.databinding.ActivityMapsBinding
+import com.example.mad_pracctical11_21012021003.databinding.ActivityMapsBinding
 import com.google.android.gms.maps.CameraUpdateFactory
 import com.google.android.gms.maps.GoogleMap
 import com.google.android.gms.maps.OnMapReadyCallback
